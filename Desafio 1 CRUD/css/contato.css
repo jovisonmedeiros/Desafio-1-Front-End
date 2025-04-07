@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+form{
+    max-width: 400px; 
+    width: 100%;
+    padding: 20px;
+   
+  
+}
+.contatoform{
+    margin: 0 auto;
+    max-width: 600px; 
+    border: 3px solid #ced4da; 
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    
+}
+.contatoform>button{
+    margin-top: 10px;
+ 
+}
